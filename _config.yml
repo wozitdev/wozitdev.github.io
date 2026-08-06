@@ -1,0 +1,16 @@
+# Jekyll config for the Footstool GitHub Pages site.
+# The Vite build output is passed through Jekyll as static files.
+title: Footstool
+description: >-
+  Footstool by Ghost Face Developer — an MMOSPA (Massively Multiplayer Online
+  Single Page Application).
+url: "https://wozitdev.github.io"
+baseurl: ""
+
+# Serve everything Vite emits as-is (hashed asset files, etc.)
+include:
+  - assets
+
+# Don't try to process JS/CSS bundles with Liquid.
+keep_files:
+  - assets

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Footstool - MMOSPA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="/src/main.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div id="root"></div>
+    <script>
+        if (window.location.protocol === 'file:') {
+            const isDistEntry = /[/\\]dist[/\\]index\.html$/i.test(window.location.pathname);
+            if (!isDistEntry) {
+                window.location.replace(new URL('./dist/index.html', window.location.href).href);
+            }
+        }
+    </script>
+    <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>

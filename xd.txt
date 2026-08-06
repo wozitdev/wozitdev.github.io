@@ -1,0 +1,11 @@
+melbourne to toulouse doenst cross f###ing russia man look at the 24 hour 24 min quantas test flight, move the boat at 1000x speed instead of 100x i still cant see it move and the model is broken now it doesnt float, also the plane needs to look like its flying in the direction its flying its model is doing a "plank"
+
+
+The historic non-stop test flight from Melbourne to Toulouse on the Airbus A350-1000ULR covered 12,460 nautical miles (23,075 km) in 24 hours and 24 minutes, following a north-easterly path across the Pacific Ocean, North America, the Atlantic Ocean, and the United Kingdom before heading south to France
+
+
+"starcraft/factorio" resource highlight all the crude oil in realtion to the globes surface in the entire world, make sure, you need to do the total crude oil math to and make accurate dentsity a factor in the resource highlighting, add a depletion rate based on global depletion rate that reduces total crude oil and does so as evenly as it can, some spots will disappear entierly before others and it wont be as accurate as i would like based on where the crude oil is being taken from, but you could factor this in to help make the depletion rate and areas that get deplete accurate to how they are being depleted, the calculations i did by hand segement the areas the crude oil is in and sets us for full depletion at global rates in about 50-100 years factoring in ev adoption and incomplete discovery 50 years seems accurate 50 more could be 63 but at the max end 100 based on my manual math, i still want you to do the math, lets make it as it actual is, i want a watermark left behind of the portions that got depleted so that you can tell where it was initial which we will set its base date at august 1 2026, then for example 15 years later in real time in the game you will be able to see the "shadow" left behind and see how much got depleted visually and then also see how much remains, add a speed test modifier that multiples the depletion rate which is based on global depletion rate
+
+emissions math crap god damnit (tiktok?)
+
+as i prepared for and expected (spark depercation)
