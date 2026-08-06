@@ -31,19 +31,10 @@ jobs:
       - name: Build Vite app
         run: npm run build
 
-      - name: Add Jekyll config to build output
-        run: cp _config.yml dist/
-
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./dist
-          destination: ./_site
-
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./_site
+          path: ./dist
 
   deploy:
     needs: build
